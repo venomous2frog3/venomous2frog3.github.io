@@ -1,0 +1,20 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+p,
+li {
+    font-size: 18px;
+    color:aquamarine
+}
+
+a {
+    text-decoration: none;
+}
+.Banner {
+    background-color: blueviolet;
+}
